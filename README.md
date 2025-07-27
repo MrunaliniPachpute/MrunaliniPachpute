@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Mrunalini!
 
 🎓 Artificial Intelligence and Data Science student  
-💻 MERN Stack Developer | 🤖 AI Explorer | 🎤 MLSA (Beta)
+MERN Stack Developer | AI Explorer | MLSA (Beta)
 
 I love turning ideas into full-stack projects with a pinch of creativity and impact!  
 Built 2+ major projects, and conducted tech sessions reaching 150+ students.
