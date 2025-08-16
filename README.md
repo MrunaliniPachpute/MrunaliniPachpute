@@ -10,7 +10,6 @@ Built 2+ major projects, and conducted tech sessions reaching 150+ students.
 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/mrunalini-pachpute/) | [Email](mailto:pachputemrunalini@gmail.com)
 
 > *Code. Create. Collaborate.* 🚀
-
 ### ⚡ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -22,5 +21,12 @@ Built 2+ major projects, and conducted tech sessions reaching 150+ students.
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
 ### 📊 GitHub Stats
-![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical)
+![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical&count_private=true)
+
+---
+
+### 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliniPachpute&layout=compact&theme=radical)
