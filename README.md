@@ -26,5 +26,5 @@ Built 2+ major projects, and conducted tech sessions reaching 150+ students.
 ### 📊 GitHub Stats
 ![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical&count_private=true&hide=issues,prs,contribs)\
 
-![Mrunalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&rank_icon=percentile&theme=radical)
+![Mrunalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&rank_icon=percentile&theme=radical_hide=issues,prs,contribs)
 
