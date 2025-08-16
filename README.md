@@ -24,11 +24,4 @@ Built 2+ major projects, and conducted tech sessions reaching 150+ students.
 ---
 
 ### 📊 GitHub Stats
-![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical&count_private=true&hide=issues,prs,contribs)
-![Top Percentile](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrunaliniPachpute&theme=radical)
-![Top Percentile](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrunaliniPachpute&theme=radical)
-
----
-
-### 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliniPachpute&layout=compact&theme=radical)
+![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical&count_private=true&hide=issues,prs,contribs)\
