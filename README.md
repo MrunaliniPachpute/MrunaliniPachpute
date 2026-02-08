@@ -23,7 +23,14 @@ Built production ready projects, and conducted tech sessions reaching 150+ stude
 
 ---
 ### 📊 GitHub Stats  
-![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical&count_private=true&hide=issues,prs,contribs&rank_icon=percentile)
-
+[![Mrunalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical&count_private=true&hide=issues,prs,contribs&rank_icon=percentile)
+](https://github-readme-stats.vercel.app/api?
+username=MrunaliniPachpute
+&show_icons=true
+&theme=radical
+&count_private=true
+&hide=issues,prs
+&rank_icon=percentile
+)
 
 
