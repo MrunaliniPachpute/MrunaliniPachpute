@@ -20,10 +20,10 @@ Built production ready projects, and conducted tech sessions reaching 150+ stude
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-/**
+<!--
 ---
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrunaliniPachpute&show_icons=true&theme=radical)
 
-**/
+-->
 
